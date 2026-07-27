@@ -16,4 +16,4 @@ python main.py
 
 Environment Variables
 
-BOT_TOKEN="8848846122:AAHaNJw0inSeo4DyZWzffyFn1pFyfD1cfNQ"
+BOT_TOKEN="8848846122:AAGy0hhnYD-MQfoCNSSJaFNTkb_icuyioo4"
