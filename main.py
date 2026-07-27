@@ -13,8 +13,7 @@ TOKEN = os.getenv("BOT_TOKEN")
 
 LINK = "https://drive.google.com/file/d/1I8kXqNrefDhAr9g7XpHZ0sAHm9qQPgEE/view?usp=sharing"
 
-KEY = """2026-07-26 16:44
-F80C-66CD-4EA2-4247-94B1-7B0A-3A41-4D71"""
+KEY = """2026-07-31 17:03|2D28-DBC9-4584-087D-CB35-067A-70DD-BAF6"""
 
 WELCOME = """
 👋 Hoş geldin!
