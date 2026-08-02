@@ -11,9 +11,9 @@ from telegram.ext import (
 # Render Environment Variables kısmına BOT_TOKEN olarak ekle
 TOKEN = os.getenv("BOT_TOKEN")
 
-LINK = "https://drive.google.com/file/d/1I8kXqNrefDhAr9g7XpHZ0sAHm9qQPgEE/view?usp=sharing"
+LINK = "https://drive.google.com/file/d/1I8kXqNrefDhAr9g7XpHZ0sAHm9qQPgEE/view"
 
-KEY = """2026-07-31 17:03|2D28-DBC9-4584-087D-CB35-067A-70DD-BAF6"""
+KEY = """2026-08-12 14:17|8B87-FBBD-D0F5-6F88-1043-F3BC-5769-7460"""
 
 WELCOME = """
 👋 Hoş geldin!
